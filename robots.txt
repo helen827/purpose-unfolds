@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://purpose-unfolds.earthysun258.chatgpt.site/sitemap.xml
